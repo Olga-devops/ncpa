@@ -1,3 +1,4 @@
+
 --- 
 - name: NCPA playbook 
   hosts: all 
